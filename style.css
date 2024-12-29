@@ -1,0 +1,238 @@
+body {
+    background-color: #3C3D37;
+
+}
+
+img {
+    position: fixed;
+    height: 55vh;
+    width: auto;
+    top: 17vh;
+    right: 40vh;
+} 
+
+.img-p {
+    position: absolute;
+    height: 55vh;
+    width: auto;
+    top: 17vh;
+    left: 40vh;
+
+}
+
+.div-pro {
+    
+    position: absolute;
+    height: 40vh;
+    left: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+.p1 {
+    position: absolute;
+    font-size: 19px;
+    top: 25vh;
+    left: 80vh;
+
+}
+
+.simg {
+    position: absolute;
+    left: 10vh;
+    top: 15vh;
+    height: 35vh;
+
+}
+
+.himg {
+    position: absolute;
+    right: 10vh;
+    top: 55vh;
+    height: 40vh;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.haiya0 {
+    font-size: 25px;
+    position: absolute;
+    top: 5vh;
+    right: 5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+
+}
+
+#ham-menu {
+    display: none;
+}
+
+/* Media Quaries */
+
+/* Laptop */
+@media (max-width:1366px) {
+    html {
+        font-size: 75%;
+    }
+}
+
+/* Tablet */
+@media (max-width:768px) {
+    html {
+        font-size: 62.5%;
+    }
+}
+
+.bast0 {
+    position: absolute;
+    left: 32vh;
+    top: 18vh;
+    font-size: 20px;
+
+}
+
+.bast1 {
+    position: absolute;
+    right: 44vh;
+    top: 58vh;
+    font-size: 20px;
+    direction: rtl;
+}
+
+.bfont1 {
+    max-width: 620px;
+}
+
+.bfont2 {
+    max-width: 620px;
+}
+
+.haiya1 {
+    position: absolute;
+    left: 50vh;
+    top: 20vh;
+}
+
+.font1 {
+    font-size: 50px;
+}
+
+.font2 {
+    font-size: 50px;
+}
+
+.font3 {
+    font-size: 30px;
+    max-width: 520px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.pro-1 {
+    position: absolute;
+    top: 35vh;
+    left: 45vh;
+}
+
+.pro-1:hover {
+    background-color: blue;
+    transition: .5s ease-in-out;
+    transition-delay: .3s;
+    border-radius: 8px;
+}
+
+.s1 {
+    position: absolute;
+    top: 35vh;
+    left: 57vh;
+}
+
+.pro-2 {
+    position: absolute;
+    top: 35vh;
+    left: 67vh;
+}
+
+.pro-2:hover {
+    background-color: blue;
+    transition: .5s ease-in-out;
+    transition-delay: .3s;
+    border-radius: 8px;
+}
+
+.s2 {
+    position: absolute;
+    top: 35vh;
+    left: 79vh;
+}
+
+.pro-3 {
+    position: absolute;
+    top: 35vh;
+    left: 89vh;
+}
+
+.pro-3:hover {
+    background-color: blue;
+    transition: .5s ease-in-out;
+    transition-delay: .3s;
+    border-radius: 8px;
+}
+
+.s3 {
+    position: absolute;
+    top: 35vh;
+    left: 101vh;
+}
+
+.pro-4 {
+    position: absolute;
+    top: 35vh;
+    left: 111vh;
+}
+
+.pro-4:hover {
+    background-color: blue;
+    transition: .5s ease-in-out;
+    transition-delay: .3s;
+    border-radius: 8px;
+}
+
+.s4 {
+    position: absolute;
+    top: 35vh;
+    left: 123vh;
+}
+
+.pro-5 {
+    position: absolute;
+    top: 35vh;
+    left: 133vh;
+}
+
+.pro-5:hover {
+    background-color: blue;
+    transition: .5s ease-in-out;
+    transition-delay: .3s;
+    border-radius: 8px;
+}
+
+
